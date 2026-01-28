@@ -89,5 +89,6 @@ Projeto em fase inicial de concepção e definição de requisitos.
 Funcionalidades e arquitetura poderão evoluir conforme validações técnicas e operacionais.
 
 Licença
-Copyright (c) 2026 Maicon Cubero de Jesus
-All rights reserved.
+## Copyright (c) 2026 Maicon Cubero de Jesus
+
+## All rights reserved.
